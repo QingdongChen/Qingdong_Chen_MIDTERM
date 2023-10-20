@@ -3,3 +3,5 @@ This was my midterm exam assignment, and since I didn't have a group member I cr
 
 # Installations
 I am added this to cause a conflict. No inteallation. Making more changes.
+
+My name is Qingdong Chen.
