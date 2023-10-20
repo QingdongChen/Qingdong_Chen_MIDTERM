@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    
+}
+
+.part1{
+    color: burlywood;
+}
+
+.part2{
+    color: chartreuse;
+}
+
+p{
+    border: 2px solid black;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+
+}
